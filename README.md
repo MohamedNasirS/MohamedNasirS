@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**MohamedNasirS/MohamedNasirS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
+# 💫 About Me:
 Business Analyst at Diffuse AI<br>Designer at Google Developer Groups<br>Enthusiastic and curious individual currently pursuing a Bachelor's degree in Technology with a specialization in<br>Artificial Intelligence and Machine Learning at Saveetha University.<br>Eager to gain real-world experience in a collaborative environment.
 
 
@@ -25,3 +20,5 @@ Business Analyst at Diffuse AI<br>Designer at Google Developer Groups<br>Enthusi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamedNasirS&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
