@@ -1,5 +1,5 @@
 # 💫 About Me:
-Business Analyst at Diffuse AI<br>Designer at Google Developer Groups<br>Enthusiastic and curious individual currently pursuing a Bachelor's degree in Technology with a specialization in<br>Artificial Intelligence and Machine Learning at Saveetha University.<br>Eager to gain real-world experience in a collaborative environment.
+I am the Founder and CEO of Slate Designers, an innovative design agency, and an Ambassador for the AI Student Community (AISC), where I work to foster AI awareness among students. Additionally, I serve as a Canva Designer at Google Developer Groups and as a Business Analyst at Diffuse-AI, contributing my analytical expertise to emerging AI solutions. I also work as a UI/UX Designer at SeniorSense, creating intuitive interfaces for advanced technologies. Currently, I am pursuing my bachelor’s degree at Saveetha University, where I continue to hone my skills and expand my knowledge in design and technology.
 
 
 ## 🌐 Socials:
