@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am the Founder and CEO of Slate Designers, an innovative design agency, and an Ambassador for the AI Student Community (AISC), where I work to foster AI awareness among students. Additionally, I serve as a Canva Designer at Google Developer Groups and as a Business Analyst at Diffuse-AI, contributing my analytical expertise to emerging AI solutions. I also work as a UI/UX Designer at SeniorSense, creating intuitive interfaces for advanced technologies. Currently, I am pursuing my bachelor’s degree at Saveetha University, where I continue to hone my skills and expand my knowledge in design and technology.
+I am the Founder and CEO of RecursAI, an innovative design agency, and an Ambassador for the AI Student Community (AISC), where I work to foster AI awareness among students. Additionally, I serve as a Canva Designer at Google Developer Groups and as a Business Analyst at Diffuse-AI, contributing my analytical expertise to emerging AI solutions. I also work as a UI/UX Designer at SeniorSense, creating intuitive interfaces for advanced technologies. Currently, I am pursuing my bachelor’s degree at Saveetha University, where I continue to hone my skills and expand my knowledge in design and technology.
 
 
 ## 🌐 Socials:
